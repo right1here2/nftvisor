@@ -1,0 +1,17 @@
+{
+  "name": "nftvisor",
+  "version": "1.0.1",
+  "description": "Provides advanced analytics and insights on NFT collections, leveraging NFTapestry.",
+  "main": "main.js",
+  "dependencies": {
+    "nftapestry": "^1.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "author": "right1here2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/right1here2/nftvisor"
+  }
+}
